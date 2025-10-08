@@ -13,7 +13,7 @@ Georgetown University
 
 I am a first-year PhD student in Mathematics at Georgetown University, affiliated to the [Department of Mathematics and Statistics](https://mathstat.georgetown.edu/).
 
-I am broadly interested in **Partial Differential Equations**, with **Harmonic Analysis** and **Geometric Analysis**.
+I am broadly interested in **Partial Differential Equations**, with **Harmonic Analysis** and **Geometric Analysis**. Currently, I'm primarily working on problems arising from **nonlinear dispersive equations**.
 
 Previously, I completed my Bachelor's degree at Fudan University, and Master's degree at Georgetown University.
 
