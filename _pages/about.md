@@ -9,7 +9,7 @@ redirect_from:
 
 <b><font size=5>Jianlei Huang </font></b>  
 PhD Student in Mathematics  
-Department of Mathematics and Statistics, Georgetown University
+Georgetown University
 
 I am a first-year PhD student in Mathematics at Georgetown University, affiliated to the [Department of Mathematics and Statistics](https://mathstat.georgetown.edu/).
 
