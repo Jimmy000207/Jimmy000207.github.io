@@ -13,6 +13,6 @@ Department of Mathematics and Statistics, Georgetown University
 
 I am a first-year PhD student in Mathematics at Georgetown University, affiliated to the [Department of Mathematics and Statistics](https://mathstat.georgetown.edu/)
 
-I am broadly interested in Partial Differential Equations, with Harmonic Analysis and Geometric Analysis.
+I am broadly interested in **Partial Differential Equations**, with **Harmonic Analysis** and **Geometric Analysis**.
 
 My CV can be downloaded [here](/files/CV.pdf) *(last update: Nov. 2024)*.
