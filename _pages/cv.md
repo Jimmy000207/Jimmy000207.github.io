@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV can be downloaded here. *(Last update: Nov.16, 2024)*
+My CV can be downloaded [here](/files/CV.pdf). *(Last update: Nov.16, 2024)*
