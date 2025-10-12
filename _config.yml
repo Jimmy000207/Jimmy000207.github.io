@@ -23,7 +23,7 @@ repository               : "Jimmy000207/Jimmy000207.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profilebig.jpg"
   name             : "Jianlei Huang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Mathematics @ Georgetown University"
