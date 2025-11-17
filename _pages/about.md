@@ -17,4 +17,4 @@ I am broadly interested in **Partial Differential Equations**, with **Harmonic A
 
 Previously, I completed my Bachelor's degree at Fudan University, and Master's degree at Georgetown University.
 
-My CV can be downloaded [here](/files/CV.pdf) *(last update: Nov. 2024)*.
+My CV can be downloaded [here](/files/CV.pdf) *(last update: Nov. 2025)*.
