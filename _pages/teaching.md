@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+### Instructor, Georgetown University
+--------------------
+MATH 1350: Calculus I. Fall 2026.  
 
 ### TA, Georgetown University
 --------------------
