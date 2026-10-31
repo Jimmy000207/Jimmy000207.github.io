@@ -11,9 +11,9 @@ redirect_from:
 PhD Student in Mathematics  
 Georgetown University
 
-I am a first-year PhD student in Mathematics at Georgetown University, affiliated to the [Department of Mathematics and Statistics](https://mathstat.georgetown.edu/).
+I am a second-year PhD student in Mathematics at Georgetown University, affiliated to the [Department of Mathematics and Statistics](https://mathstat.georgetown.edu/). I'm grateful to be advised by [Benjamin Harrop-Griffiths](https://benjamin.harrop-griffiths.com/)
 
-I am broadly interested in **Partial Differential Equations**, with **Harmonic Analysis** and **Geometric Analysis**. Currently, I'm primarily working on problems arising from **nonlinear dispersive equations**.
+I research interests are in **PDE** and **Analysis**. Currently, I'm primarily working on problems arising from **nonlinear dispersive equations** and **nonlinear integrable equations**.
 
 Previously, I completed my Bachelor's degree at Fudan University, and Master's degree at Georgetown University.
 
